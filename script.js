@@ -19,4 +19,3 @@ let number = parseInt(prompt("Введите число:"));
 
 let text = (number % 2 === 0) ? "Число четное!" : "Число нечетное!";
 console.log(alert(text));
-1
